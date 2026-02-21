@@ -58,4 +58,8 @@ Feature-rich surveillance system that turns your webcam into an intelligent secu
 **ASP.NET MVC · C# · SQL**  
 Full-stack application with complete CRUD, authentication, and database functionality.
 
+### RagChatBot
+**ASP.NET MVC · C# · SQL**  
+Full-stack application with complete CRUD, authentication, and database functionality, plus multiple AI features 
 
+And many more ! Check out my repos for more info 
