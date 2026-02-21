@@ -6,15 +6,15 @@
   </a>
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a versatile full-stack developer who loves building real-world applications with **Laravel Livewire** and optimizing them for **SEO**. I believe in clean code, thoughtful design, and creating experiences that users actually enjoy.
 
-- 🔭 **Currently working on:** E-commerce platforms and photography business websites
-- 🌱 **Learning:** Advanced Livewire patterns and AI integration with Laravel
-- 👯 **Looking to collaborate on:** Open-source Laravel projects
-- 💬 **Ask me about:** Laravel, Livewire, SEO optimization, full-stack architecture
-- ⚡ **Fun fact:** I build everything from C++ games to Python surveillance systems
+-  **Currently working on:** E-commerce platforms and photography business websites
+-  **Learning:** Advanced Livewire patterns and AI integration with Laravel
+-  **Looking to collaborate on:** Open-source Laravel projects
+-  **Ask me about:** Laravel, Livewire, SEO optimization, full-stack architecture
+-  **Fun fact:** I build everything from C++ games to Python surveillance systems
 
 ## 🛠️ Tech Stack
 
