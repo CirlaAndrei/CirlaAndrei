@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrei Cirla
+#  Andrei Cirla
 
 <div align="center">
   <a href="https://git.io/typing-svg">
